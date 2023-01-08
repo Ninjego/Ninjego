@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Ninjego</h1>
 <h3 align="center">A passionate programmer from Sweden</h3>
 
-- 📝 I regularly program [Minecraft Java Plugins]
+- 📝 I regularly program Minecraft Java Plugins and C# Apps
 
 - 💬 Ask me about **Spigot**
 
